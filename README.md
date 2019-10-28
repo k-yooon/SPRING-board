@@ -2,7 +2,7 @@
 
 ## 사용 언어 및 환경
 * Client Language
- ** HTML, CSS, JS, jQuery, Ajax
+  * HTML, CSS, JS, jQuery, Ajax
 * Server Language
  * JAVA, JSP
 * Framework 
